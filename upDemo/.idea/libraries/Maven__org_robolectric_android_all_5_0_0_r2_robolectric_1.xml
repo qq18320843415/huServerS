@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.robolectric:android-all:5.0.0_r2-robolectric-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/robolectric/android-all/5.0.0_r2-robolectric-1/android-all-5.0.0_r2-robolectric-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/robolectric/android-all/5.0.0_r2-robolectric-1/android-all-5.0.0_r2-robolectric-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/robolectric/android-all/5.0.0_r2-robolectric-1/android-all-5.0.0_r2-robolectric-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
